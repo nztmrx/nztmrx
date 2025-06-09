@@ -10,10 +10,8 @@ deguard.io<a/> <img src="https://framerusercontent.com/images/zVn5a89G5lyVz7u9Mz
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="nzxtmrx"/></p>
 
-
-- 🌱 I’m currently learning **Ton**
 - <img align="center" src="https://www.codewars.com/users/nztmrx/badges/large?logo=false">
-- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
