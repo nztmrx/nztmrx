@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 
-<h3 align="center">A passionate FullStack web3 Developer <h1>CTO &
+<h3 align="center">A passionate FullStack Developer <h1>CTO &
 CoFounder <a href="https://deguard.io" target="_black">
 deguard.io<a/> <img src="https://framerusercontent.com/images/zVn5a89G5lyVz7u9MzuSXyKExQ.png" width="50" align="center"></h1></h3>
 
